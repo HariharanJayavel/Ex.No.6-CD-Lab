@@ -48,6 +48,10 @@ return 0;
 
 ```
 # OUTPUT
+### k.txt
+
+![image](https://github.com/user-attachments/assets/bd69c966-a1c8-4613-9d5a-e68838e8cb74)
+
 ![Screenshot 2024-10-17 131504](https://github.com/user-attachments/assets/b7a15f92-8aaa-4166-9cdd-355375b420ab)
 
 # Result
